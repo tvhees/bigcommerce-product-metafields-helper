@@ -35,7 +35,7 @@ yarn start
 ```csv
 id,sku,namespace_1.key_1,namespace_1.key_2,namespace_2.key_1
 123,SKU0001,Value 11,Value 21,Value 31
-234,SKU0004,Value 12,,Value32,
+234,SKU0004,Value 12,,Value32
 ```
 
 ### Create Command
